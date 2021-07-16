@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Dec 11 00:03:24 2018
-
 @author: Sangwon Lee
 """
 
